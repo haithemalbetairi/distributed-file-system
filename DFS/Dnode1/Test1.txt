@@ -1,0 +1,18 @@
+akljfdkjfd
+dkfjkldjfsdf
+dfjlkjfdkl
+erueoruoeurew
+fjkldfjsldkfj
+cmlvcmv,vmlc,mv
+jfkldjfkljfdklsfjs
+fjklfjouioeurekrj
+kldjfkljsklsmslfjsd
+
+
+Feedback to Learner
+5/3/23 12:33 PM
+- All good so far.
+
+- But, I think you demonstrate and initial setup of your system. It will be good if we can add dnodes while running the system dynamically to justify scalability.
+
+- Also, you need to include demonstrations of file recovery and file appends (to show synchronization)
